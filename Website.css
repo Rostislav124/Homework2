@@ -2,6 +2,10 @@
     background-color: yellowgreen;
     width: 100%;
 }
+.div1{
+padding-left: 45%;
+font-size: 27px;
+}
 .h1-block {
    color: red
 }
@@ -10,4 +14,15 @@
 }
 .main-content2 {
     background-color: yellowgreen
+}
+.header{
+    width: 50%;
+    background: aqua;
+    margin-top: 2px;
+    margin-bottom: 4px;
+    margin-left: 25%;
+}
+.img{
+    margin-left: 33%;
+    margin-right: 25%;
 }
